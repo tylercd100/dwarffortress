@@ -1,4 +1,4 @@
-# Linux Games
+# Docker Dwarf Fortress
 
 Run Dwarf Fortress with DF Hack in [Docker](https://hub.docker.com/r/tylercd100/dwarffortress)
 ```
